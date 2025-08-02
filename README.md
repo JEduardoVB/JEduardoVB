@@ -1,8 +1,6 @@
 # ¡Hola, soy Eduardo! 👋
 
-🎓 Estudiante de Ingeniería en Computación  
-💻 Desarrollador web fullstack  
-🚀 Apasionado por crear soluciones digitales innovadoras
+Soy un desarrollador autodidacta que actualmente trabaja en el área de TI de Farmacias Guadalajara. Me apasiona crear software útil, moderno y escalable. Disfruto aprender haciendo, explorar nuevas tecnologías, mejorar mis habilidades y aportar en proyectos con propósito. Mi meta es convertirme en un Fullstack Developer y dejar huella a través de la calidad de mi trabajo.
 
 ## 🔧 Tecnologías y Habilidades
 
@@ -35,6 +33,9 @@
 </details>
 
 ## 📚 Sobre Mí
+
+Soy amante de los tacos y perderme en playlists de música mientras programo. Me relajo viendo series y peliculas, explorando herramientas nuevas o jugando videojuegos.
+Disfruto crear cosas desde cero, incluso si al principio no salen perfectas. Creo en mejorar un poco cada día, a mi ritmo y sin perder el gusto por lo que hago.
 
 ## 📊 GitHub Stats
 ![jeduardovb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeduardovb&theme=gotham&show_icons=true&hide_border=true&layout=compact)
